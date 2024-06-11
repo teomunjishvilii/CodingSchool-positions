@@ -1,0 +1,23 @@
+/* Inter Font regular */
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter/static/Inter-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Cabin Font regular */
+@font-face {
+  font-family: "Cabin";
+  src: url("/fonts/Cabin/static/Cabin-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Poppins Font regular */
+@font-face {
+  font-family: "Poppins";
+  src: url("/fonts/Poppins/Poppins-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}

@@ -164,7 +164,7 @@ h4 {
 
 .presentation_video {
   height: 557px;
-  background-image: url("/images/video_bg.png");
+  background-image: url("../images/video_bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -220,15 +220,15 @@ h4 {
 }
 
 .team_members_block:nth-child(1) .team_members_block_img {
-  background-image: url("/images/team_members_img1.jpg");
+  background-image: url("../images/team_members_img1.jpg");
 }
 
 .team_members_block:nth-child(2) .team_members_block_img {
-  background-image: url("/images/team_members_img2.jpg");
+  background-image: url("../images/team_members_img2.jpg");
 }
 
 .team_members_block:nth-child(3) .team_members_block_img {
-  background-image: url("/images/team_members_img3.jpg");
+  background-image: url("../images/team_members_img3.jpg");
 }
 
 .team_members_block_img {
